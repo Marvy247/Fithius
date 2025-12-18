@@ -6,3 +6,4 @@ This repository contains a collection of Clarity smart contract projects.
 
 - [name-registry](./name-registry/)
 - [oracle-registry](./oracle-registry/)
+- [yield-aggregator](./yield-aggregator/)
